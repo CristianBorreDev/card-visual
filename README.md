@@ -1,7 +1,29 @@
-# 🎨 card-visual
+# 🎨 card-visual · Laboratorio Visual
+“Las imágenes son ideas en silencio.”
+— Cristian / Zentrix
 
-Componentes visuales que combinan imagen, texto y estructura.  
-Un ejercicio de composición minimalista dentro del laboratorio **Cristian / Zentrix**.
+---
+
+## 🌙 Descripción
+
+**card-visual** es un módulo visual del ecosistema **Cristian / Zentrix**, desarrollado dentro del **Laboratorio Visual**.  
+Representa una exploración estética centrada en la **composición visual y narrativa**, donde cada tarjeta combina **imagen, texto y ritmo** para comunicar de forma clara y emocional.
+
+Su objetivo es servir como base para **sistemas de presentación**, galerías y espacios de identidad dentro de **Zentrix**.
+
+Cada componente busca equilibrio entre **estructura, textura y mensaje**, explorando cómo la forma puede transmitir propósito sin necesidad de lógica.
+
+---
+
+## ⚙️ Stack
+
+| Capa | Herramienta |
+|------|--------------|
+| Framework | Astro |
+| Estilos | TailwindCSS |
+| Animaciones | Transiciones CSS / Motion minimal |
+| Íconos | Lucide Icons |
+| Fuente | Inter / sans-serif moderna |
 
 ---
 
@@ -10,16 +32,8 @@ Un ejercicio de composición minimalista dentro del laboratorio **Cristian / Zen
 > “La forma comunica antes que las palabras.  
 > Cada tarjeta es una historia en silencio.”
 
-**card-visual** explora cómo la estética y la jerarquía visual pueden dar significado sin depender de la lógica.  
-Su objetivo es servir como **base para sistemas de presentación** en proyectos futuros del ecosistema.
-
----
-
-## ⚙️ Stack
-
-- Astro  
-- TailwindCSS  
-- CSS Transitions  
+**card-visual** no busca cantidad, sino coherencia visual.  
+Es una **exploración de composición y ritmo**, pensada como una pieza esencial para futuros sistemas de interfaz dentro de **Zentrix**.
 
 ---
 
