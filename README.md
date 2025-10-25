@@ -1,6 +1,7 @@
 # 🎨 card-visual · Laboratorio Visual
-“Las imágenes son ideas en silencio.”
-— Cristian / Zentrix
+
+> “Las imágenes susurran lo que las palabras callan.”
+> — Cristian / Zentrix
 
 ---
 
@@ -44,7 +45,6 @@ Diseñador y desarrollador de experiencias digitales.
 
 📩 [crstnborre@gmail.com](mailto:crstnborre@gmail.com)  
 🌐 [cristian-dev.vercel.app](https://cristian-dev.vercel.app)  
-🧪 [Laboratorio](https://cristian-labs.vercel.app)
 
 ---
 
