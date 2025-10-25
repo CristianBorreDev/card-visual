@@ -1,0 +1,10 @@
+---
+import VisualCard from "./VisualCard.astro";
+import {visuals} from "../data/visuals"
+---
+
+<section class="grid gap-8 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 w-full max-w-7xl mx-auto">
+  {visuals.map((item) => (
+    <VisualCard {...item} />
+  ))}
+</section>
