@@ -1,6 +1,6 @@
 export const visuals = [
   {
-    image: "https://images.unsplash.com/photo-1532024802178-20dbc87a312a?fm=jpg&q=80&w=2000",
+    image: "/images/image1.png",
     title: "Sombra y Silencio",
     description: "Una exploración de cómo la oscuridad puede revelar forma, ritmo y presencia.",
     concept: "Inspirada en la arquitectura invisible de la sombra. La ausencia de luz se convierte en el protagonista.",
@@ -10,7 +10,7 @@ export const visuals = [
     year: 2025,
   },
   {
-    image: "https://images.unsplash.com/photo-1533134486753-c833f0ed4866?fm=jpg&q=80&w=2000",
+    image: "/images/image2.png",
     title: "Estructura del Vacío",
     description: "Composición visual donde el espacio respira entre formas geométricas y pausas.",
     concept: "El vacío como materia. La composición busca armonía entre tensión y silencio.",
@@ -20,7 +20,7 @@ export const visuals = [
     year: 2025,
   },
   {
-    image: "https://marionevado.art/illustration/wp-content/uploads/2021/11/Patience-Surreal-digital-art-by-Mario-Nevado.jpg",
+    image: "/images/image3.png",
     title: "Paciencia Digital",
     description: "Una pieza surreal que combina calma, color y abstracción emocional.",
     concept: "Inspirada en la serenidad suspendida del tiempo digital. Movimiento detenido en un instante.",
@@ -30,7 +30,7 @@ export const visuals = [
     year: 2025,
   },
   {
-    image: "https://marionevado.art/illustration/wp-content/uploads/2021/11/Blossom-surreal-digital-art-by-Mario-Nevado.jpg",
+    image: "/images/image4.png",
     title: "Flor del Circuito",
     description: "Un híbrido entre biología y código, naturaleza en lenguaje digital.",
     concept: "La metáfora del crecimiento artificial. Lo orgánico nace en lo sintético.",
